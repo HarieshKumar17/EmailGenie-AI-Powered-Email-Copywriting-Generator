@@ -267,7 +267,16 @@ CREATE TABLE sent_emails (
 ### Running the Chatbot
 Run the Streamlit application with the following command:
     
-
     streamlit run app.py
     
-    
+### Screenshots
+
+---
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d421336-cbdc-4e12-8a38-58a225d7ad97/863e7a56-1c58-426a-8290-533128499172/60487076-1ca6-40f3-b853-d6b74ce71cd3.png)
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d421336-cbdc-4e12-8a38-58a225d7ad97/6d7ed618-7f47-4e91-904f-d191f49dced7/a97ace22-fcd6-4e49-a210-cccc6e651748.png)
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d421336-cbdc-4e12-8a38-58a225d7ad97/7d777a5f-bb3e-4d10-8138-228b5b1bc230/d74d9448-318f-4d40-8dfc-03e01a45c1da.png)
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d421336-cbdc-4e12-8a38-58a225d7ad97/e251afab-c99f-47db-85c7-86d90f7e30d6/73437ac7-6194-499f-9ea8-355b9de394e1.png)
