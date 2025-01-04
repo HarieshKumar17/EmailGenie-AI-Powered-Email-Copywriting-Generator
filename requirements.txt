@@ -1,0 +1,7 @@
+streamlit
+groq
+resend
+hubspot-api-client
+pandas
+python-dotenv
+sqlite3
